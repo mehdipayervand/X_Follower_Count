@@ -11,7 +11,7 @@ This is an userscript for `Tampermonkey`.
 
 First install [Tampermonkey](https://tampermonkey.net/) for `Chrome`, `Microsoft Edge`, `Safari`, `Firefox`, `Opera`, `Dolphin` or `UC Browser` from here: [https://tampermonkey.net/](https://tampermonkey.net/)
 
-And then you can install [`X_Follower_Count.user.js`](https://github.com/NabiKAZ/X-Follower-Count/raw/main/X_Follower_Count.user.js) file with drag and drop file on your browser, or add the script by dashboard of Tampermonkey.
+And then you can install [`X_Follower_Count.user.js`](https://github.com/mehdipayervand/X-Follower-Count/raw/main/X_Follower_Count.user.js) file with drag and drop file on your browser, or add the script by dashboard of Tampermonkey.
 
 ## Screenshot
 ![X Follower Count Screenshot](assets/X-Follower-Count.png)
